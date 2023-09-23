@@ -1,2 +1,3 @@
-This poject was created with learning
-This poject belongs to Danik
+This project was created with learning
+This project belongs to Danik
+The project target is learning
